@@ -16,15 +16,15 @@ o programa retornará o ponto de cozimento correspondente em
   -----------------------------------------------------------------------
   Temperatura (°C)  Cozimento (EN)    Cozimento (PT-BR)
   ----------------- ----------------- -----------------------------------
-  48 °C             Rare              Selada
+  48 °C             (Rare)              Selada
 
-  54 °C             Medium rare       Ao ponto para mal passada
+  54 °C             (Medium rare)       Ao ponto para mal passada
 
-  60 °C             Medium            Ao ponto
+  60 °C             (Medium)            Ao ponto
 
-  65 °C             Medium well       Ao ponto para bem passada
+  65 °C             (Medium well)       Ao ponto para bem passada
 
-  71 °C             Well done         Bem passada
+  71 °C             (Well done)         Bem passada
   ----------------- ----------------- -----------------------------------
 
   -----------------------------------------------------------------------

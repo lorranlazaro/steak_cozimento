@@ -20,9 +20,7 @@ def steak():
             continue
 
         if temperatura < 48:
-            print(
-                "A carne está quase pronta para ser consumida, cozinhe por mais alguns minutos."
-            )
+            print("A carne está crua, cozinhe por mais alguns minutos.")
         elif 48 <= temperatura < 54:
             print("A carne está Selada (Rare) e quase pronta para ser consumida.")
         elif 54 <= temperatura < 60:
